@@ -1,0 +1,25 @@
+.mx-12v {
+    margin-left: 12vw !important;
+    margin-right: 12vw !important;
+}
+
+.my-10v {
+    margin-top: 10vh !important;
+    margin-bottom: 10vh !important;
+}
+
+.f-1rem {
+    font-size: 1rem !important;
+}
+
+.f-2rem {
+    font-size: 2rem !important;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    text-decoration: underline !important;
+}
