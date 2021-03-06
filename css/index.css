@@ -3,23 +3,26 @@
     margin-right: 12vw !important;
 }
 
-.my-10v {
-    margin-top: 10vh !important;
-    margin-bottom: 10vh !important;
-}
-
-.f-1rem {
-    font-size: 1rem !important;
-}
-
-.f-2rem {
-    font-size: 2rem !important;
-}
-
 .nav-link {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .nav-link:hover {
     text-decoration: underline !important;
+}
+
+.footer-link {
+    text-decoration: underline !important;
+}
+
+.footer-link:hover {
+    text-decoration: none !important;
+}
+
+.bg-black {
+    background-color: #212529 !important;
+}
+
+.text-black {
+    color: #212529 !important;
 }
