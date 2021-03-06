@@ -3,6 +3,10 @@
     margin-right: 12vw !important;
 }
 
+.active {
+    color: rgba(0 , 0, 0, .9);
+}
+
 .nav-link {
     color: rgba(0, 0, 0, 0.66) !important;
     text-decoration: none !important;
