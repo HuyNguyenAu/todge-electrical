@@ -1,14 +1,4 @@
-.mx-12v {
-    margin-left: 12vw !important;
-    margin-right: 12vw !important;
-}
-
-.active {
-    color: rgba(0, 0, 0, .9);
-}
-
 .nav-link {
-    color: rgba(0, 0, 0, 0.66) !important;
     text-decoration: none !important;
 }
 
@@ -16,32 +6,10 @@
     text-decoration: underline !important;
 }
 
-.footer-link {
+.nav-link-rev {
     text-decoration: underline !important;
 }
 
-.footer-link:hover {
+.nav-link-rev:hover {
     text-decoration: none !important;
-}
-
-.bg-black {
-    background-color: #212529 !important;
-}
-
-.text-black {
-    color: #212529 !important;
-}
-
-@media only screen and (max-width: 1300px) {
-    .mx-12v {
-        margin-left: 2vw !important;
-        margin-right: 2vw !important;
-    }
-}
-
-@media only screen and (max-width: 600px) {
-    .mx-12v {
-        margin-left: 2% !important;
-        margin-right: 2% !important;
-    }
 }
